@@ -1,0 +1,157 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.xiaoyuan666.com" resolutions="1x" timestamp="1522061125562">
+  <folder name="css">
+    <file name="site_global.css" crc="182077229"/>
+    <file name="_____.css" crc="81862293" ref="上品牛肉汤"/>
+    <file name="____.css" crc="139375905" ref="万州拉面"/>
+    <file name="nomq_____.css" crc="3758425046" ref="万州拉面"/>
+    <file name="______.css" crc="127840676" ref="混沌杂粮煎饼"/>
+    <file name="_____1.css" crc="3959894170" ref="土家掉渣饼"/>
+    <file name="_____2.css" crc="514628366" ref="鸡蛋灌饼面"/>
+    <file name="_______.css" crc="504175224" ref="烤肉脆皮鸡拌饭"/>
+    <file name="index.css" crc="3804729733" ref="index"/>
+    <file name="nomq_index.css" crc="7774324" ref="index"/>
+    <file name="___.css" crc="3974830908" ref="羊肉汤"/>
+    <file name="__.css" crc="120975462" ref="一餐"/>
+    <file name="nomq___.css" crc="4191467669" ref="一餐"/>
+    <file name="____1.css" crc="3886843070" ref="重庆小面"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>一餐:phone>万州拉面:phone>上品牛肉汤:phone>土家掉渣饼:phone>混沌杂粮煎饼:phone>鸡蛋灌饼面:phone>烤肉脆皮鸡拌饭:phone>羊肉汤:phone>重庆小面:index:一餐:万州拉面:上品牛肉汤:土家掉渣饼:混沌杂粮煎饼:鸡蛋灌饼面:烤肉脆皮鸡拌饭:羊肉汤:重庆小面"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>一餐:phone>万州拉面:phone>上品牛肉汤:phone>土家掉渣饼:phone>混沌杂粮煎饼:phone>鸡蛋灌饼面:phone>烤肉脆皮鸡拌饭:phone>羊肉汤:phone>重庆小面:index:一餐:万州拉面:上品牛肉汤:土家掉渣饼:混沌杂粮煎饼:鸡蛋灌饼面:烤肉脆皮鸡拌饭:羊肉汤:重庆小面"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>一餐:phone>万州拉面:phone>上品牛肉汤:phone>土家掉渣饼:phone>混沌杂粮煎饼:phone>鸡蛋灌饼面:phone>烤肉脆皮鸡拌饭:phone>羊肉汤:phone>重庆小面:index:一餐:万州拉面:上品牛肉汤:土家掉渣饼:混沌杂粮煎饼:鸡蛋灌饼面:烤肉脆皮鸡拌饭:羊肉汤:重庆小面"/>
+    <file name="museconfig.js" crc="4153641093" ref="phone>index:phone>一餐:phone>万州拉面:phone>上品牛肉汤:phone>土家掉渣饼:phone>混沌杂粮煎饼:phone>鸡蛋灌饼面:phone>烤肉脆皮鸡拌饭:phone>羊肉汤:phone>重庆小面:index:一餐:万州拉面:上品牛肉汤:土家掉渣饼:混沌杂粮煎饼:鸡蛋灌饼面:烤肉脆皮鸡拌饭:羊肉汤:重庆小面"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="phone>index:phone>一餐:phone>万州拉面:phone>上品牛肉汤:phone>土家掉渣饼:phone>混沌杂粮煎饼:phone>鸡蛋灌饼面:phone>烤肉脆皮鸡拌饭:phone>羊肉汤:phone>重庆小面:index:一餐:万州拉面:上品牛肉汤:土家掉渣饼:混沌杂粮煎饼:鸡蛋灌饼面:烤肉脆皮鸡拌饭:羊肉汤:重庆小面"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>一餐:phone>万州拉面:phone>上品牛肉汤:phone>土家掉渣饼:phone>混沌杂粮煎饼:phone>鸡蛋灌饼面:phone>烤肉脆皮鸡拌饭:phone>羊肉汤:phone>重庆小面:index:一餐:万州拉面:上品牛肉汤:土家掉渣饼:混沌杂粮煎饼:鸡蛋灌饼面:烤肉脆皮鸡拌饭:羊肉汤:重庆小面"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>一餐:phone>万州拉面:phone>上品牛肉汤:phone>土家掉渣饼:phone>混沌杂粮煎饼:phone>鸡蛋灌饼面:phone>烤肉脆皮鸡拌饭:phone>羊肉汤:phone>重庆小面:index:一餐:万州拉面:上品牛肉汤:土家掉渣饼:混沌杂粮煎饼:鸡蛋灌饼面:烤肉脆皮鸡拌饭:羊肉汤:重庆小面"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="phone>一餐:一餐"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>一餐:phone>万州拉面:phone>上品牛肉汤:phone>土家掉渣饼:phone>混沌杂粮煎饼:phone>鸡蛋灌饼面:phone>烤肉脆皮鸡拌饭:phone>羊肉汤:phone>重庆小面:一餐:万州拉面:上品牛肉汤:土家掉渣饼:混沌杂粮煎饼:鸡蛋灌饼面:烤肉脆皮鸡拌饭:羊肉汤:重庆小面"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:一餐:万州拉面"/>
+    <file name="webpro.js" crc="242022427" ref="一餐"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="一餐"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="一餐"/>
+    <file name="touchswipe.js" crc="4066113679" ref="一餐"/>
+  </folder>
+  <folder name="images">
+    <file name="u4872-4.png" crc="4281105438" ref="phone>index"/>
+    <file name="timg.jpg" crc="4067935282" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3828-4.png" crc="4005302938" ref="phone>一餐"/>
+    <file name="u3836-4-a.png" crc="108473913" ref="phone>一餐"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>一餐:index:一餐:万州拉面"/>
+    <file name="u3894.png" crc="4180083447" ref="phone>一餐"/>
+    <file name="u3894-a.png" crc="4079381862" ref="phone>一餐"/>
+    <file name="u3913.png" crc="421487264" ref="phone>一餐"/>
+    <file name="u3913-a.png" crc="342371872" ref="phone>一餐"/>
+    <file name="u3936.png" crc="3902161295" ref="phone>一餐"/>
+    <file name="u3936-a.png" crc="329642959" ref="phone>一餐"/>
+    <file name="u3957.png" crc="3967188370" ref="phone>一餐"/>
+    <file name="u3957-a.png" crc="4018766113" ref="phone>一餐"/>
+    <file name="u3978.png" crc="371297241" ref="phone>一餐"/>
+    <file name="u3978-a.png" crc="3844821640" ref="phone>一餐"/>
+    <file name="u3998.png" crc="4208531021" ref="phone>一餐"/>
+    <file name="u3998-a.png" crc="4276278858" ref="phone>一餐"/>
+    <file name="u4020.png" crc="3832935754" ref="phone>一餐"/>
+    <file name="u4020-a.png" crc="328267313" ref="phone>一餐"/>
+    <file name="u4040.png" crc="410656103" ref="phone>一餐"/>
+    <file name="u4040-a.png" crc="4208445380" ref="phone>一餐"/>
+    <file name="u5595-4.png" crc="3946730817" ref="phone>一餐"/>
+    <file name="timg (2).jpg" crc="216870960" ref="phone>一餐">
+      <caption webpage="一餐" alt=""/>
+    </file>
+    <file name="u4925-4.png" crc="4036867586" ref="phone>万州拉面"/>
+    <file name="餐馆壁纸.jpg" crc="3920662385" ref="phone>万州拉面:phone>上品牛肉汤:phone>土家掉渣饼:phone>混沌杂粮煎饼:phone>鸡蛋灌饼面:phone>烤肉脆皮鸡拌饭:phone>羊肉汤:phone>重庆小面">
+      <caption webpage="上品牛肉汤" alt=""/>
+      <caption webpage="烤肉脆皮鸡拌饭" alt=""/>
+      <caption webpage="重庆小面" alt=""/>
+      <caption webpage="混沌杂粮煎饼" alt=""/>
+      <caption webpage="鸡蛋灌饼面" alt=""/>
+      <caption webpage="羊肉汤" alt=""/>
+      <caption webpage="万州拉面" alt=""/>
+      <caption webpage="土家掉渣饼" alt=""/>
+    </file>
+    <file name="u4972-4.png" crc="3856433639" ref="phone>上品牛肉汤"/>
+    <file name="u5019-4.png" crc="402622158" ref="phone>土家掉渣饼"/>
+    <file name="u5058-4.png" crc="4009452591" ref="phone>混沌杂粮煎饼"/>
+    <file name="u5089-4.png" crc="35035297" ref="phone>鸡蛋灌饼面"/>
+    <file name="u5120-4.png" crc="279594171" ref="phone>烤肉脆皮鸡拌饭"/>
+    <file name="u5155-4.png" crc="4075606765" ref="phone>羊肉汤"/>
+    <file name="u5198-4.png" crc="3911272294" ref="phone>重庆小面"/>
+    <file name="u110-4.png" crc="3934197013" ref="index"/>
+    <file name="u119-4.png" crc="4286709157" ref="index"/>
+    <file name="u124-4.png" crc="4126105505" ref="index"/>
+    <file name="lake.jpg" crc="4068516896" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u110-42.png" crc="214936984" ref="index"/>
+    <file name="u119-42.png" crc="28215613" ref="index"/>
+    <file name="u124-42.png" crc="4243757607" ref="index"/>
+    <file name="u1780-5.png" crc="289606540" ref="一餐"/>
+    <file name="1041.jpg" crc="280307187" ref="一餐">
+      <caption webpage="一餐" alt=""/>
+    </file>
+    <file name="u1780-52.png" crc="136791707" ref="一餐"/>
+    <file name="10411920x1080.jpg" crc="3942536422" ref="一餐">
+      <caption webpage="一餐" alt=""/>
+    </file>
+    <file name="u2049-4.png" crc="3866140979" ref="万州拉面"/>
+    <file name="1041.png" crc="280307187" ref="万州拉面:上品牛肉汤:土家掉渣饼:混沌杂粮煎饼:鸡蛋灌饼面:烤肉脆皮鸡拌饭:羊肉汤:重庆小面">
+      <caption webpage="上品牛肉汤" alt=""/>
+      <caption webpage="烤肉脆皮鸡拌饭" alt=""/>
+      <caption webpage="重庆小面" alt=""/>
+      <caption webpage="混沌杂粮煎饼" alt=""/>
+      <caption webpage="鸡蛋灌饼面" alt=""/>
+      <caption webpage="羊肉汤" alt=""/>
+      <caption webpage="万州拉面" alt=""/>
+      <caption webpage="土家掉渣饼" alt=""/>
+    </file>
+    <file name="u2049-42.png" crc="4263941241" ref="万州拉面"/>
+    <file name="10412048x1152.jpg" crc="415607842" ref="万州拉面">
+      <caption webpage="万州拉面" alt=""/>
+    </file>
+    <file name="u3115-4.png" crc="4040856093" ref="上品牛肉汤"/>
+    <file name="u3133-4.png" crc="3901034858" ref="土家掉渣饼"/>
+    <file name="u3151-4.png" crc="175684525" ref="混沌杂粮煎饼"/>
+    <file name="u3169-4.png" crc="4110641176" ref="鸡蛋灌饼面"/>
+    <file name="u3198-4.png" crc="35410777" ref="烤肉脆皮鸡拌饭"/>
+    <file name="u3216-4.png" crc="87007237" ref="羊肉汤"/>
+    <file name="u3234-4.png" crc="4294932573" ref="重庆小面"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="____1.css" crc="409820861" ref="phone>重庆小面"/>
+      <file name="nomq_____1.css" crc="3824530138" ref="phone>重庆小面"/>
+      <file name="______.css" crc="3874226318" ref="phone>混沌杂粮煎饼"/>
+      <file name="_____2.css" crc="290749753" ref="phone>鸡蛋灌饼面"/>
+      <file name="index.css" crc="3972150648" ref="phone>index"/>
+      <file name="__.css" crc="120140480" ref="phone>一餐"/>
+      <file name="_____1.css" crc="359039310" ref="phone>土家掉渣饼"/>
+      <file name="___.css" crc="4065798995" ref="phone>羊肉汤"/>
+      <file name="____.css" crc="420297242" ref="phone>万州拉面"/>
+      <file name="_______.css" crc="170917876" ref="phone>烤肉脆皮鸡拌饭"/>
+      <file name="_____.css" crc="189507398" ref="phone>上品牛肉汤"/>
+      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="369161025" seo="true" mt="1522061114371" redirect="true"/>
+    <file name="一餐.html" crc="494638816" seo="true" mt="1521380603197" redirect="true"/>
+    <file name="万州拉面.html" crc="3848403238" seo="true" mt="1521379038458" redirect="true"/>
+    <file name="上品牛肉汤.html" crc="380924329" seo="true" mt="1521379065916" redirect="true"/>
+    <file name="土家掉渣饼.html" crc="75513510" seo="true" mt="1521379089100" redirect="true"/>
+    <file name="混沌杂粮煎饼.html" crc="244895970" seo="true" mt="1521379112813" redirect="true"/>
+    <file name="鸡蛋灌饼面.html" crc="3766503120" seo="true" mt="1521435378655" redirect="true"/>
+    <file name="烤肉脆皮鸡拌饭.html" crc="4015656092" seo="true" mt="1521379177386" redirect="true"/>
+    <file name="羊肉汤.html" crc="4242363348" seo="true" mt="1521379205577" redirect="true"/>
+    <file name="重庆小面.html" crc="321237807" seo="true" mt="1521379227822" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="165451616" seo="true" mt="1522061020291" redirect="true"/>
+  <file name="一餐.html" crc="376899140" seo="true" mt="1521350591669" redirect="true"/>
+  <file name="万州拉面.html" crc="302486964" seo="true" mt="1520474998892" redirect="true"/>
+  <file name="上品牛肉汤.html" crc="107297487" seo="true" mt="1520475477738" redirect="true"/>
+  <file name="土家掉渣饼.html" crc="4256642971" seo="true" mt="1520475564976" redirect="true"/>
+  <file name="混沌杂粮煎饼.html" crc="3966997222" seo="true" mt="1520490204263" redirect="true"/>
+  <file name="鸡蛋灌饼面.html" crc="111861039" seo="true" mt="1520490330804" redirect="true"/>
+  <file name="烤肉脆皮鸡拌饭.html" crc="3877304392" seo="true" mt="1520475986743" redirect="true"/>
+  <file name="羊肉汤.html" crc="3932352356" seo="true" mt="1520490525503" redirect="true"/>
+  <file name="重庆小面.html" crc="702993" seo="true" mt="1520489608086" redirect="true"/>
+</manifest>

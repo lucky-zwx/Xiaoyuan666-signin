@@ -1,0 +1,86 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>无标题文档</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+<!--
+*{ margin:0; padding:0;}
+ul, li { list-style:none;}
+a { text-decoration:none;}
+.nav { border:2px solid #ccc; border-right:none; overflow:hidden; float:left;}
+.nav ul li { float:left;}
+.nav ul li a { width:144px; height:40px; text-align:center; line-height:40px; display:block; border-right:2px solid #ccc; background:#eee; color:#666;}
+.nav ul li a:hover{ color:#f00; }
+.nav ul li ul { position:absolute; display:none;}
+.nav ul li ul li { float:none;}
+.nav ul li ul li a { border-right:none; border-top:1px dotted #ccc; background:#f5f5f5;}
+.nav ul li:hover ul{ display:block; }
+#zhengti{
+	margin:0 auto;
+	width:1024px;}
+#tongzhi{width:300px;
+float:right;}
+#tongzhi h1{
+	color:#F00;
+	text-align:center;}
+
+-->
+</style>
+</head>
+
+<body>
+<div id="zhengti">
+<div class="nav">
+<ul>
+	<li><a href="zhuye.html">首页</a>
+      
+    </li>
+    <li><a href="yican.html">一餐</a>
+      
+    </li>
+    <li><a href="ercan.html">二餐</a>
+      
+    </li>
+    <li><a href="chaoshi.html">超市</a>
+      
+    </li>
+    <li><a href="#">面食</a>
+      <ul>
+        <li><a href="wanzhoumianguan.html">万州面馆</a></li>
+        <li><a href="#">无</a></li>
+        <li><a href="#">无</a></li>
+        <li> <a href="#">无</a></li>
+  	   </ul>
+    </li>
+    <li><a href="#">米类</a>
+      <ul>
+        <li><a href="kaorou.html">烤肉拌饭脆皮鸡</a></li>
+        <li><a href="#">二级栏目</a></li>
+        <li><a href="#">二级栏目</a></li>
+        <li><a href="#">二级栏目</a></li>
+      </ul>
+    </li>
+    <li><a href="#">汤类</a>
+      <ul class="a">
+        <li><a href="#">二级栏目</a></li>
+        <li><a href="#">二级栏目</a></li>
+        <li><a href="#">二级栏目</a></li>
+        <li><a href="#">二级栏目</a></li>
+        <li><a href="#">二级栏目</a></li>
+      </ul>
+    </li>
+</ul>
+</div>
+
+
+<!-- TemplateBeginEditable name="a" -->
+
+<!-- TemplateEndEditable --> 
+</div>
+</body>
+</html>
